@@ -5,7 +5,7 @@ Most of my work are for private use.
 
 Currently, I focus on WordPress development.
 
-Learning plans for next year:
+Learning plans for this year:
 - Laravel
 - Node JS & Either of Nuxt JS or Next JS
 
