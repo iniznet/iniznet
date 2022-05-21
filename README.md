@@ -7,7 +7,7 @@ Currently, I focus on WordPress development.
 
 Learning plans for this year:
 - Laravel (In Progress)
-- Node JS & Either of Nuxt JS or Next JS
+- Node JS & Vue JS & Nuxt JS (In Progress)
 
 <p align="center">
   <a href="https://github.com/iniznet">
