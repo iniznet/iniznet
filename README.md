@@ -1,14 +1,11 @@
 ### Hi there 👋
-💬 Contact: iniznet@gmail.com
+💬 Find me at: iniznet@gmail.com
 
-Most of my work are for private use.
+Hi, I'm a junior web developer and WordPress enthusiast for about 4 year now. Mainly work around WordPress but occasionally also work on NodeJS & Laravel.
 
-Currently, I focus on WordPress development.
+#### TECH STACK
 
-Learning plans for this year:
-- Laravel (In Progress)
-- Node JS & Vue JS & Nuxt JS (In Progress)
-- Discord.js (side learn)
+HTML / CSS / SCSS / Javascript / Jquery / AlpineJS / VueJS / Unpoly / PHP / Python / Bootstrap / Tailwind / Laravel / CodeIgniter / NodeJS / Nuxt / Puppeteer / Selenium / GIT / MySQL / MongoDB / Apache / NGINX
 
 <p align="center">
   <a href="https://github.com/iniznet">
