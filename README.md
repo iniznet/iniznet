@@ -5,7 +5,7 @@ Hi, I'm a junior web developer and WordPress enthusiast for about 4 year now. Ma
 
 #### TECH STACK
 
-HTML / CSS / SCSS / Javascript / Jquery / AlpineJS / VueJS / Unpoly / PHP / Python / Bootstrap / Tailwind / Laravel / CodeIgniter / NodeJS / Nuxt / Puppeteer / Selenium / GIT / MySQL / MongoDB / Apache / NGINX
+HTML / CSS / SCSS / Bootstrap / Tailwind / Javascript / Jquery / AlpineJS / VueJS / Unpoly / PHP / Python / Laravel / CodeIgniter / NodeJS / Nuxt / Puppeteer / Selenium / GIT / MySQL / MongoDB / Apache / NGINX
 
 <p align="center">
   <a href="https://github.com/iniznet">
