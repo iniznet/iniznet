@@ -1,11 +1,11 @@
 ### Hi there 👋
 💬 Find me at: iniznet@gmail.com
 
-Hi, I'm a junior web developer and WordPress freelancer & enthusiast for about 4 year now. Mainly work around WordPress but occasionally also work on NodeJS & Laravel.
+A full stack web developer and WordPress freelancer enthusiast. Mainly work around WordPress but occasionally also work on NodeJS & Laravel.
 
 #### TECH STACK
 
-HTML / CSS / SCSS / Bootstrap / Tailwind / Javascript / jQuery / AlpineJS / VueJS / Unpoly / PHP / Python / Laravel / CodeIgniter / NodeJS / Nuxt / Puppeteer / Selenium / GIT / MySQL / MongoDB / Apache / NGINX
+HTML / CSS / SCSS / Bootstrap / Tailwind / Javascript / jQuery / AlpineJS / VueJS / Unpoly / NodeJS / Nuxt / PHP / Python / Laravel / CodeIgniter / Puppeteer / Selenium / GIT / MySQL / MongoDB / Apache / NGINX / VS Code
 
 <p align="center">
   <a href="https://github.com/iniznet">
