@@ -1,7 +1,7 @@
 ### Hi there 👋
 💬 Find me at: iniznet@gmail.com
 
-A full stack web developer and WordPress freelancer enthusiast. Mainly work around WordPress but occasionally also work on NodeJS & Laravel.
+Mainly work around WordPress but occasionally also work on NodeJS & Laravel.
 
 #### TECH STACK
 
