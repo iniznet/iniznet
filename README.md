@@ -5,7 +5,10 @@ Mainly work around WordPress but occasionally also work on NodeJS & Laravel.
 
 #### TECH STACK
 
-HTML / CSS / SCSS / Bootstrap / Tailwind / Javascript / TypeScript / jQuery / AlpineJS / VueJS / Svelte / Unpoly / NodeJS / Nuxt / SvelteKit / PHP / Python / Laravel / CodeIgniter / Puppeteer / Selenium / GIT / MySQL / MongoDB / Apache / NGINX / VS Code
+HTML / CSS / SCSS / Bootstrap / Tailwind / Javascript / TypeScript / jQuery / AlpineJS / VueJS / Svelte / Unpoly / NodeJS / Nuxt / SvelteKit / PHP / Python / Laravel / CodeIgniter / Puppeteer / Selenium / Playwright / GIT / MySQL / MongoDB / Apache / NGINX / VS Code
+
+#### Extra
+- Networking especially Mikrotik & Ubiquiti devices
 
 <p align="center">
   <a href="https://github.com/iniznet">
