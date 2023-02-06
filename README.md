@@ -5,14 +5,14 @@ Mainly work around WordPress but occasionally also work around on NodeJS & Larav
 
 #### Tech
 
-| Category  	| Language & Libraries                                                                      	|
-|-----------	|-------------------------------------------------------------------------------------------	|
-| Frontend  	| HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, jQuery, AlpineJS, VueJS, Svelte, Unpoly 	|
-| Rendering 	| Nuxt, Sveltekit                                                                           	|
-| Backend   	| PHP, Laravel, CodeIgniter                                                                 	|
-| Database  	| MySQL, MongoDB                                                                            	|
-| Tools     	| Git, VS Code                                                                              	|
-| Extra     	| Web Scraping, Networking, Discord.js                                                      	|
+| Category  	| Language & Libraries                                                                                  	|
+|-----------	|-------------------------------------------------------------------------------------------------------	|
+| Frontend  	| HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, jQuery, AlpineJS, VueJS, Svelte, Unpoly 	|
+| Rendering 	| Nuxt, Sveltekit                                                                                       	|
+| Backend   	| PHP, Laravel, CodeIgniter                                                                             	|
+| Database  	| MySQL, MongoDB                                                                                        	|
+| Tools     	| Git, VS Code                                                                                          	|
+| Extra     	| Web Scraping, Networking, Discord.js                                                                  	|
 
 <p align="center">
   <a href="https://github.com/iniznet">
