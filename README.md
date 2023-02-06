@@ -1,15 +1,18 @@
 ### Hi there 👋
 💬 Find me at: iniznet@gmail.com
 
-Mainly work around WordPress but occasionally also work on NodeJS & Laravel.
+Mainly work around WordPress but occasionally also work around on NodeJS & Laravel.
 
-#### TECH STACK
+#### Tech
 
-HTML / CSS / SCSS / Bootstrap / Tailwind / Javascript / TypeScript / jQuery / AlpineJS / VueJS / Svelte / Unpoly / NodeJS / Nuxt / SvelteKit / PHP / Python / Laravel / CodeIgniter / Puppeteer / Selenium / Playwright / GIT / MySQL / MongoDB / Apache / NGINX / VS Code
-
-#### Extra
-- Networking especially Mikrotik & Ubiquiti devices
-- Discord.js
+| Category  	| Language & Libraries                                                                      	|
+|-----------	|-------------------------------------------------------------------------------------------	|
+| Frontend  	| HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, jQuery, AlpineJS, VueJS, Svelte, Unpoly 	|
+| Rendering 	| Nuxt, Sveltekit                                                                           	|
+| Backend   	| PHP, Laravel, CodeIgniter                                                                 	|
+| Database  	| MySQL, MongoDB                                                                            	|
+| Tools     	| Git, VS Code                                                                              	|
+| Extra     	| Web Scraping, Networking, Discord.js                                                      	|
 
 <p align="center">
   <a href="https://github.com/iniznet">
