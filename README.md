@@ -9,6 +9,7 @@ HTML / CSS / SCSS / Bootstrap / Tailwind / Javascript / TypeScript / jQuery / Al
 
 #### Extra
 - Networking especially Mikrotik & Ubiquiti devices
+- Discord.js
 
 <p align="center">
   <a href="https://github.com/iniznet">
