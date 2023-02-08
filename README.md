@@ -1,7 +1,7 @@
 ### Hi there 👋
 💬 Find me at: iniznet@gmail.com
 
-Mainly work around WordPress but occasionally also work around on NodeJS & Laravel.
+Mainly work around WordPress but occasionally also work around on Laravel.
 
 #### Tech
 
