@@ -1,7 +1,9 @@
 ### Hi there 👋
 💬 Find me at: iniznet@gmail.com
 
-Mainly work around WordPress but occasionally also work around on Laravel.
+I'm someone from mid-level networking got into full stack engineer.
+
+My primary focus is on working with WordPress, although I occasionally work with Laravel as well and sometimes other stuff. I have yet to secure a full-time position.
 
 #### Tech
 
