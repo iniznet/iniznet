@@ -1,7 +1,7 @@
 ### Hi there 👋
 💬 Find me at: iniznet@gmail.com
 
-I'm someone from mid-level networking got into full stack engineer.
+I'm someone from mid-level networking who got into full-stack engineering.
 
 My primary focus is on working with WordPress, although I occasionally work with Laravel as well and sometimes other stuff. I have yet to secure a full-time position.
 
