@@ -9,7 +9,7 @@ My primary focus is on working with WordPress, although I occasionally work with
 
 | Category  	| Language & Libraries                                                                                  	|
 |-----------	|-------------------------------------------------------------------------------------------------------	|
-| Frontend  	| HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, jQuery, AlpineJS, VueJS, Svelte, Unpoly 	|
+| Frontend  	| HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, jQuery, AlpineJS, VueJS, Svelte, htmx, Unpoly 	|
 | Rendering 	| Nuxt, Sveltekit                                                                                       	|
 | Backend   	| PHP, Laravel, CodeIgniter                                                                             	|
 | Database  	| MySQL, MongoDB                                                                                        	|
