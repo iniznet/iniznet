@@ -5,14 +5,14 @@ I'm someone from mid-level networking who got into full-stack engineering.
 
 My primary focus is on working with WordPress, although I occasionally work with Laravel as well and sometimes other stuff. I have yet to secure a full-time position.
 
-#### Tech
+#### Experienced Tech
 
 | Category  	| Language & Libraries                                                                                  	|
 |-----------	|-------------------------------------------------------------------------------------------------------	|
-| Frontend  	| HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, jQuery, AlpineJS, VueJS, Svelte, htmx, Unpoly 	|
-| Rendering 	| Nuxt, Sveltekit                                                                                       	|
+| Frontend  	| SASS, Bootstrap, Tailwind, Javascript, Typescript, AlpineJS, Vue, Svelte, React, htmx, Unpoly 	|
+| Rendering 	| Nuxt, Sveltekit, Next                                                                                       	|
 | Backend   	| PHP, Laravel, CodeIgniter                                                                             	|
-| Database  	| MySQL, MongoDB                                                                                        	|
+| Database  	| MySQL, SQLITE, PostgreSQL, MongoDB                                                                                        	|
 | Tools     	| Git, VS Code                                                                                          	|
 | Extra     	| Web Scraping, Networking, Discord.js                                                                  	|
 
