@@ -1,6 +1,6 @@
 # 👋
 
-I'm someone from mid-level networking who got into full-stack engineering. Working both as a full-stack development and WordPress developer.
+I'm someone from mid-level networking who got into full-stack engineering. Working both as a full-stack software engineer and WordPress developer.
 
 --- 
 
